@@ -1,0 +1,2 @@
+[2024-07-09 17:24:22] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x00000291A714D940>],) e {}. Retornou {resultado}
+[2024-07-09 17:24:41] Função 'depositar' executada com argumentos ([<__main__.PessoaFisica object at 0x00000291A714D940>],) e {}. Retornou {resultado}
